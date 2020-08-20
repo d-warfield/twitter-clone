@@ -1,4 +1,14 @@
+# Twitter Clone using Firebase Realtime Database
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+To begin, run `npx create-react-app my-app`
+
+Navigate into directory with `cd my-app` 
+
+Create localhost with `npm start`
+
+![Alt Text](https://media.giphy.com/media/TLO4F2R7Nua2Z2teYn/giphy.gif)
 
 ## Available Scripts
 
